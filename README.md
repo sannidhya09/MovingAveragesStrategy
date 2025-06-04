@@ -1,3 +1,9 @@
+Run by visiting: https://movingaverages.streamlit.app/
+
+
+
+
+
 MOVING AVERAGES TRADING STRATEGY
 
 -This project performs 2 moving average trading strategies called SMA (Simple Moving average) and
